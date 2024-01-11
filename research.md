@@ -18,5 +18,5 @@ layout: page
 <h2>Projects & Funding</h2>
 
 <ul>
-	<li>Crowdfunding compaign "Parenting together" to finance single author paper</i> (2022).</li>
+	<li>Crowdfunding compaign "Parenting together" to finance single author paper (2022).</li>
 </ul>
