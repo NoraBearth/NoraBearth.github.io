@@ -47,12 +47,12 @@ authors:
     bio: PhD candidate at the University of St. Gallen
     external-image: false
     picture: assets/images/nora.jpg
-    #twitter: johndoe
+    twitter: norabearth
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need projects, comment the *projects* configs below
 projects: false
