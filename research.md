@@ -7,7 +7,7 @@ layout: page
     ul li { margin-bottom: 10px; }
 </style>
 
-<h2>Working papers</h2>
+<h2>Ongoing work</h2>
 
 <ul>
 	<li><i>Causal Machine Learning for Moderation Effects</i>, 
