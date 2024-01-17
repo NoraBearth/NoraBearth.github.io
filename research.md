@@ -7,11 +7,15 @@ layout: page
     ul li { margin-bottom: 10px; }
 </style>
 
+<h2>Working papers</h2>
+
+<ul>
+	<li><i>Causal Machine Learning for Moderation Effects</i>, 2024, jointly with Michael Lechner. [<a href="http://arxiv.org/abs/2401.08290">Paper</a>]</li>
+</ul>
+
 <h2>Ongoing work</h2>
 
 <ul>
-	<li><i>Causal Machine Learning for Moderation Effects</i>, 
-		2024, jointly with Michael Lechner</li>
 	<li><i>Beyond Baby Blues: The child penalty in mental health in Switzerland</i>, 2024. </li>
 </ul>
 
