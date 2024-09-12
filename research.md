@@ -11,7 +11,7 @@ layout: page
 
 <ul>
 	<li><i>Causal Machine Learning for Moderation Effects</i>, 2024, jointly with Michael Lechner. [<a href="http://arxiv.org/abs/2401.08290">Paper</a>]</li>
-	<li><i>Improving the Finite Sample Performance of Double/Debiased Machine Learning with Propensity Score Calibration</i>, 2024, jointly with Nora Bearth. [<a href="https://arxiv.org/abs/2409.04874">Paper</a>] [<a href="https://github.com/dballinari/Improving-the-Finite-Sample-Performance-of-DML-with-Propensity-Score-Calibration">Code</a>]</li>
+	<li><i>Improving the Finite Sample Performance of Double/Debiased Machine Learning with Propensity Score Calibration</i>, 2024, jointly with Daniele Ballinari. [<a href="https://arxiv.org/abs/2409.04874">Paper</a>] [<a href="https://github.com/dballinari/Improving-the-Finite-Sample-Performance-of-DML-with-Propensity-Score-Calibration">Code</a>]</li>
 </ul>
 
 <h2>Ongoing work</h2>
