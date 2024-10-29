@@ -17,11 +17,11 @@ layout: page
 <h2>Ongoing work</h2>
 
 <ul>
-	<li><i>Beyond Baby Blues: The child penalty in mental health in Switzerland</i>, 2024. </li>
+	<li><i>Beyond Baby Blues: The child penalty in mental health in Switzerland</i>, 2024. [<a href="http://arxiv.org/abs/2410.20861">Paper</a>]</li>
 </ul>
 
 <h2>Projects & Funding</h2>
 
 <ul>
-	<li>Crowdfunding compaign "Parenting together" to finance single author paper (2022).</li>
+	<li>Crowdfunding campaign "Parenting together" to finance single author paper (2022).</li>
 </ul>
