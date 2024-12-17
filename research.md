@@ -10,7 +10,7 @@ layout: page
 <h2>Working papers</h2>
 
 <ul>
-	<li><i>Causal Machine Learning for Moderation Effects</i>, 2024, jointly with Michael Lechner. [<a href="http://arxiv.org/abs/2401.08290">Paper</a>]</li>
+	<li><i>Causal Machine Learning for Moderation Effects</i>, 2024, jointly with Michael Lechner. [<a href="http://arxiv.org/abs/2401.08290">Paper</a>][<a href="https://github.com/NoraBearth/Causal-Machine-Learning-for-Moderation-Effects">Code</a>]</li>
 	<li><i>Improving the Finite Sample Performance of Double/Debiased Machine Learning with Propensity Score Calibration</i>, 2024, jointly with Daniele Ballinari. [<a href="https://arxiv.org/abs/2409.04874">Paper</a>] [<a href="https://github.com/dballinari/Improving-the-Finite-Sample-Performance-of-DML-with-Propensity-Score-Calibration">Code</a>]</li>
 	<li><i>Beyond Baby Blues: The Child Penalty in Mental Health in Switzerland</i>, 2024. [<a href="http://arxiv.org/abs/2410.20861">Paper</a>]</li>
 	<li><i>The Heterogeneous Effects of Active Labour Market Policies in Switzerland</i>, 2024, jointly with Federica Mascolo, Fabian Muny, Michael Lechner and Jana Mareckova. [<a href="https://arxiv.org/abs/2410.23322">Paper</a>]</li>
