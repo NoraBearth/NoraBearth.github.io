@@ -19,7 +19,7 @@ layout: page
 <h2>Ongoing work</h2>
 
 <ul>
-	<li><i>Explainable Policy Learning with Sensitive Attributes</i>, 2024, jointly with Michael Lechner, Jana Mareckova and Fabian Muny.</li>
+	<li><i>Explainable Policy Learning with Sensitive Attributes</i>, 2025, jointly with Michael Lechner, Jana Mareckova and Fabian Muny.</li>
 </ul>
 
 <h2>Projects & Funding</h2>
