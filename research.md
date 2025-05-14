@@ -10,7 +10,7 @@ layout: page
 <h2>Published papers</h2>
 
 <ul>
-	<li><i>Causal Machine Learning for Moderation Effects</i>, 2025, jointly with Michael Lechner, Journal of Business and Economic Statistics. [<a href="[https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2479646?scroll=top&needAccess=true">Paper</a>][<a href="https://github.com/NoraBearth/Causal-Machine-Learning-for-Moderation-Effects">Code</a>]</li>
+	<li><i>Causal Machine Learning for Moderation Effects</i>, 2025, jointly with Michael Lechner, Journal of Business and Economic Statistics. [<a href="https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2479646?scroll=top&needAccess=true">Paper</a>][<a href="https://github.com/NoraBearth/Causal-Machine-Learning-for-Moderation-Effects">Code</a>]</li>
 </ul>
 
 <h2>Working papers</h2>
