@@ -18,7 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/resume-nora - website.pdf
+resume-url: assets/resume-nora-website.pdf
 
 url: https://NoraBearth.github.io
 # your url: https://USERNAME.github.io
@@ -39,7 +39,7 @@ twitter: norabearth
 #instagram: myinstagram
 linkedin: nora-bearth-525251135
 github: NoraBearth
-email: nora.bearth@unisg.ch
+email: norabearth@hotmail.ch
 
 authors:
   johndoe:
